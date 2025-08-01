@@ -204,7 +204,7 @@ ${도로명주소} 근처 10분 산책 코스를 짜줘
 
 이런 식으로 프롬프트를 변경하여 집 근처에 산책해볼 수 있는 장소들을 직접 제공하였고 이를 통해 하루하루 추천받은 장소를 10분간 산책하는 방식으로 AI를 릴프를 통해 활용해보았다.
 
-![](https://gist.github.com/user-attachments/assets/3dd1bae2-43cb-4efe-ae86-eaa0bc0d5053)
+![](https://velog.velcdn.com/images/d159123/post/3cb54a2c-7929-4396-a941-0f69caf53e64/image.png)
 
 ### 좋았던 점
 
